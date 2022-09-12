@@ -27,6 +27,5 @@ def get_states():
     cur.close()
     db.close()
 
-
 if __name == "__main__":
     get_states()
